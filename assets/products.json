@@ -1,0 +1,146 @@
+[
+  {
+    "productName": "OnePlus 6",
+    "productModelNumber": "OnePlus 6",
+    "productType": "Mobile",
+    "productPrice": 320000,
+    "productDescription": "The OnePlus 6 brings a new glass back with your choice of three different finishes, the Snapdragon 845 processor, and a bigger screen with a notch. It takes on today's biggest flagships, some of which cost over twice as much. Performance is great, and the display will keep most people happy.",
+    "productImage": "images/mi_note_10.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Mi Note 5",
+    "productModelNumber": "MI5XOX",
+    "productType": "Mobile",
+    "productPrice": 16000,
+    "productDescription": "Crafted from glass and metal, the Samsung Galaxy S6 is a revolutionary smartphone that comes with a Quad HD Super AMOLED display, 16 MP camera and lightning-fast 64-bit, octa-core processor.",
+    "productImage": "images/mi_note_10.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Samsung S6",
+    "productModelNumber": "SAM1160",
+    "productType": "Mobile",
+    "productPrice": "12000",
+    "productDescription": "Crafted from glass and metal, the Samsung Galaxy S6 is a revolutionary smartphone that comes with a Quad HD Super AMOLED display, 16 MP camera and lightning-fast 64-bit, octa-core processor.",
+    "productImage": "images/samsung_galaxy_s6.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Dell Vostro",
+    "productModelNumber": "Vostro 15",
+    "productType": "Laptop",
+    "productPrice": "450000",
+    "productDescription": "10th Generation Intel® Core™ i3-1005G1 Processor (4MB Cache, up to 3.4 GHz), 10 Home Single Language, English(Dell recommends Windows 10 Pro for business), videocard\nIntel® UHD Graphics with shared graphics memory, memory 8GB, 8GBx1, DDR4, 2666MHz, harddrive, 256GB M.2 PCIe NVMe Solid State Drive (Boot) + 1TB 5400 rpm 2.5\" SATA Hard Drive (Storage)\n\ncolor",
+    "productImage": "images/dell_laptop.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Hp Pavilion",
+    "productModelNumber": "Pavilion 16",
+    "productType": "Laptop",
+    "productPrice": "550000",
+    "productDescription": "AMD Ryzen™ 5 5500U 6-core/12-thread Mobile Processor with Radeon™ Graphics, Windows 10 Home Single Language, English, videocard AMD Radeon™ Graphics with shared graphics memory, nmemory 8GB DDR4 3200MHz, harddrive 512GB M.2 PCIe NVMe Solid State Drive, color Platinum Silver",
+    "productImage": "images/hp_laptop.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Apple Macbook Pro",
+    "productModelNumber": "AP1101",
+    "productType": "Laptop",
+    "productPrice": "1110000",
+    "productDescription": "macOS Big Sur Operating System, Apple M1 Chip Processor, 13.3(33.78 cm) LED-backlit display, 8 GB RAM, 256 GB SSD, 8-core GPU, Stereo speakers with high dynamic range, 1 Year Manufacturer Warranty",
+    "productImage": "images/macbook_laptop.png",
+    "productCount": 6
+  },
+  {
+    "productName": "One Plus Smart Band",
+    "productModelNumber": "O6006",
+    "productType": "Watch",
+    "productPrice": "15000",
+    "productDescription": "Elegance is in the eye of the beholder, but we're confident you'll be dazzled. Seamless from one stunning edge to the next, exacting modern craftsmanship merges with classic attention to detail.",
+    "productImage": "images/watch.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Moto 360",
+    "productModelNumber": "MOTO360",
+    "productType": "Watch",
+    "productPrice": "20000",
+    "productDescription": "Elegance is in the eye of the beholder, but we're confident you'll be dazzled. Seamless from one stunning edge to the next, exacting modern craftsmanship merges with classic attention to detail.",
+    "productImage": "images/watch.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Mi 6 Band",
+    "productModelNumber": "MI6B",
+    "productType": "Watch",
+    "productPrice": "3000",
+    "productDescription": "Elegance is in the eye of the beholder, but we're confident you'll be dazzled. Seamless from one stunning edge to the next, exacting modern craftsmanship merges with classic attention to detail.",
+    "productImage": "images/watch.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Apple Series 6 ",
+    "productModelNumber": "A6061",
+    "productType": "Watch",
+    "productPrice": "45000",
+    "productDescription": "Elegance is in the eye of the beholder, but we're confident you'll be dazzled. Seamless from one stunning edge to the next, exacting modern craftsmanship merges with classic attention to detail.",
+    "productImage": "images/watch.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Boat V6",
+    "productModelNumber": "BoatV61101",
+    "productType": "HeadPhone",
+    "productPrice": "5000",
+    "productDescription": "Here comes the all new and updated version of Boat Over Ear Pro with Charging Case that crafts itself with design and capabilities which will make your hearing experience rise to a boost. Boat Pro connect magically to your Android andA Iphone or Apple Watch. Control your music, calls, volume, directions and more without lifting a finger.",
+    "productImage": "images/headphone.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Beats ByDr",
+    "productModelNumber": "Beats4001",
+    "productType": "HeadPhone",
+    "productPrice": "10000",
+    "productDescription": "Here comes the all new and updated version of Beats Pro with Charging Case that crafts itself with design and capabilities which will make your hearing experience rise to a boost. AirPods Pro connect magically to your iPhone or Apple Watch. A simple “Hey Siri” summons your favourite personal assistant. Control your music, calls, volume, directions and more without lifting a finger.",
+    "productImage": "images/headphone.png",
+    "productCount": 6
+  },
+  {
+    "productName": "SkullCandy",
+    "productModelNumber": "SK0001",
+    "productType": "HeadPhone",
+    "productPrice": "5000",
+    "productDescription": "Here comes the all new and updated version of SkullCandy Pro with Charging Case that crafts itself with design and capabilities which will make your hearing experience rise to a boost. AirPods Pro connect magically to your iPhone or Apple Watch. A simple “Hey Siri” summons your favourite personal assistant. Control your music, calls, volume, directions and more without lifting a finger.",
+    "productImage": "images/headphone.png",
+    "productCount": 6
+  },
+  {
+    "productName": "Haier AC",
+    "productModelNumber": "Haier1180",
+    "productType": "AC",
+    "productPrice": "25000",
+    "productDescription": "Haier DUAL Inverter Air Conditioner now comes with an 'Anti-Virus' protection layer fitted HD Filter. The filter mesh is coated with Cationic Silver Ions (AgNPs) that deactivates more than 99% Virus# and bacteria* in contact. To be precise, it demobilizes up to 99.76% Virus# and up to 99.99% bacteria* cleansing.",
+    "productImage": "images/haier_ac.png",
+    "productCount": 6
+  },
+  {
+    "productName": "LG AC",
+    "productModelNumber": "LG2346",
+    "productType": "AC",
+    "productPrice": "30000",
+    "productDescription": "LG DUAL Inverter Air Conditioner now comes with an 'Anti-Virus' protection layer fitted HD Filter. The filter mesh is coated with Cationic Silver Ions (AgNPs) that deactivates more than 99% Virus# and bacteria* in contact. To be precise, it demobilizes up to 99.76% Virus# and up to 99.99% bacteria* cleansing.",
+    "productImage": "images/lg_ac.png",
+    "productCount": 6
+  },
+  {
+    "productName": "IFB",
+    "productModelNumber": "IFB3031",
+    "productType": "AC",
+    "productPrice": "45000",
+    "productDescription": "IFB DUAL Inverter Air Conditioner now comes with an 'Anti-Virus' protection layer fitted HD Filter. The filter mesh is coated with Cationic Silver Ions (AgNPs) that deactivates more than 99% Virus# and bacteria* in contact. To be precise, it demobilizes up to 99.76% Virus# and up to 99.99% bacteria* cleansing.",
+    "productImage": "images/ifb_ac.jpg",
+    "productCount": 6
+  }
+]
